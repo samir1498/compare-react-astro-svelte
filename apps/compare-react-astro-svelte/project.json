@@ -1,0 +1,9 @@
+{
+  "name": "compare-react-astro-svelte",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/compare-react-astro-svelte/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project compare-react-astro-svelte --web",
+  "targets": {}
+}
