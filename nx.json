@@ -45,8 +45,7 @@
       "options": {
         "targetName": "test"
       }
-    },
-    "@nxext/svelte"
+    }
   ],
   "generators": {
     "@nx/react": {
